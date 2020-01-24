@@ -289,3 +289,8 @@ android_app_import {
 	product_specific: true,
 }
 
+dex_import {
+	name: "WfdCommon",
+	owner: "xiaomi",
+	jars: ["proprietary/framework/WfdCommon.jar"],
+}
